@@ -1,0 +1,316 @@
+State Name,county Name,State Code,County Code,Year,Category,Season
+Alaska,Anchorage ,2,20,2017,Good,Spring
+Alaska,Anchorage ,2,20,2019,Good,Fall
+Alaska,Anchorage ,2,20,2020,Good,Fall
+Alaska,Anchorage ,2,20,2020,Good,Spring
+Alaska,Anchorage ,2,20,2021,Good,Fall
+Alaska,Anchorage ,2,20,2022,Good,Fall
+Alaska,Anchorage ,2,20,2023,Good,Fall
+Alaska,Anchorage ,2,20,2023,Good,Spring
+Alaska,Anchorage ,2,20,2024,Good,Spring
+Alaska,Fairbanks North Star ,2,90,2024,Good,Spring
+Arizona,La Paz,4,12,2017,Good,Fall
+California,Alameda,6,1,2024,Good,Spring
+California,Contra Costa,6,13,2024,Good,Spring
+California,Humboldt,6,23,2017,Good,Spring
+California,Marin,6,41,2024,Good,Spring
+California,Monterey,6,53,2024,Good,Spring
+California,Napa,6,55,2015,Good,Fall
+California,Napa,6,55,2017,Good,Fall
+California,Napa,6,55,2018,Good,Fall
+California,Napa,6,55,2019,Good,Fall
+California,Napa,6,55,2020,Good,Fall
+California,Napa,6,55,2020,Good,Spring
+California,Napa,6,55,2021,Good,Spring
+California,San Francisco,6,75,2023,Good,Spring
+California,San Mateo,6,81,2014,Good,Fall
+California,San Mateo,6,81,2024,Good,Spring
+California,Santa Barbara,6,83,2024,Good,Spring
+California,Santa Clara,6,85,2024,Good,Spring
+California,Sonoma,6,97,2023,Good,Spring
+California,Sonoma,6,97,2024,Good,Spring
+California,Sutter,6,101,2015,Good,Spring
+Colorado,Adams,8,1,2015,Good,Fall
+Colorado,El Paso,8,41,2015,Good,Fall
+Connecticut,Hartford,9,3,2020,Good,Spring
+Connecticut,Hartford,9,3,2024,Good,Spring
+Connecticut,Litchfield,9,5,2016,Good,Fall
+Connecticut,Litchfield,9,5,2017,Good,Fall
+Connecticut,Litchfield,9,5,2017,Good,Spring
+Connecticut,Litchfield,9,5,2018,Good,Spring
+Connecticut,Litchfield,9,5,2024,Good,Spring
+Connecticut,New Haven,9,9,2020,Good,Spring
+Connecticut,New Haven,9,9,2024,Good,Spring
+Country Of Mexico,CHIHUAHUA STATE,80,6,2014,Good,Fall
+Country Of Mexico,CHIHUAHUA STATE,80,6,2014,Good,Spring
+Florida,Broward,12,11,2016,Good,Fall
+Florida,Broward,12,11,2019,Good,Fall
+Florida,Broward,12,11,2024,Good,Spring
+Florida,Duval,12,31,2017,Good,Fall
+Florida,Duval,12,31,2024,Good,Spring
+Florida,Hillsborough,12,57,2017,Good,Fall
+Florida,Hillsborough,12,57,2024,Good,Spring
+Florida,Orange,12,95,2017,Good,Fall
+Florida,Wakulla,12,129,2015,Good,Fall
+Florida,Wakulla,12,129,2016,Good,Fall
+Florida,Wakulla,12,129,2017,Good,Fall
+Florida,Wakulla,12,129,2017,Good,Spring
+Florida,Wakulla,12,129,2018,Good,Fall
+Florida,Wakulla,12,129,2018,Good,Spring
+Florida,Wakulla,12,129,2020,Good,Fall
+Florida,Wakulla,12,129,2020,Good,Spring
+Florida,Wakulla,12,129,2021,Good,Spring
+Florida,Wakulla,12,129,2023,Good,Spring
+Georgia,Paulding,13,223,2014,Good,Fall
+Hawaii,Honolulu,15,3,2014,Good,Fall
+Hawaii,Honolulu,15,3,2018,Good,Spring
+Hawaii,Honolulu,15,3,2024,Good,Spring
+Idaho,Ada,16,1,2014,Good,Fall
+Idaho,Ada,16,1,2018,Good,Spring
+Idaho,Ada,16,1,2024,Good,Spring
+Illinois,Saint Clair,17,163,2018,Good,Fall
+Indiana,Lake,18,89,2014,Good,Fall
+Indiana,Lake,18,89,2015,Good,Fall
+Indiana,Vanderburgh,18,163,2015,Good,Fall
+Indiana,Vanderburgh,18,163,2016,Good,Spring
+Kentucky,Edmonson,21,61,2014,Good,Spring
+Kentucky,Edmonson,21,61,2015,Good,Spring
+Kentucky,Edmonson,21,61,2016,Good,Fall
+Kentucky,Edmonson,21,61,2016,Good,Spring
+Kentucky,Edmonson,21,61,2018,Good,Fall
+Kentucky,Edmonson,21,61,2020,Good,Fall
+Kentucky,Edmonson,21,61,2020,Good,Spring
+Kentucky,Edmonson,21,61,2021,Good,Spring
+Kentucky,Edmonson,21,61,2022,Good,Spring
+Kentucky,Edmonson,21,61,2023,Good,Spring
+Kentucky,Jefferson,21,111,2024,Good,Spring
+Louisiana,Orleans,22,71,2020,Good,Fall
+Maine,Hancock,23,9,2019,Good,Fall
+Maine,Hancock,23,9,2021,Good,Fall
+Maryland,Garrett,24,23,2019,Good,Fall
+Maryland,Garrett,24,23,2023,Good,Fall
+Maryland,Howard,24,27,2015,Good,Fall
+Maryland,Howard,24,27,2017,Good,Fall
+Maryland,Howard,24,27,2020,Good,Spring
+Massachusetts,Suffolk,25,25,2019,Good,Fall
+Massachusetts,Worcester,25,27,2019,Good,Fall
+Michigan,Kent,26,81,2024,Good,Spring
+Michigan,Wayne,26,163,2024,Good,Spring
+Minnesota,Anoka,27,3,2019,Good,Spring
+Minnesota,Hennepin,27,53,2018,Good,Fall
+Mississippi,Hinds,28,49,2024,Good,Spring
+Missouri,St. Louis City,29,510,2024,Good,Spring
+Montana,Gallatin,30,31,2015,Good,Fall
+Montana,Gallatin,30,31,2019,Good,Fall
+Montana,Gallatin,30,31,2019,Good,Spring
+Montana,Gallatin,30,31,2024,Good,Spring
+Nebraska,Douglas,31,55,2020,Good,Fall
+Nevada,Clark,32,3,2024,Good,Spring
+Nevada,Washoe,32,31,2024,Good,Spring
+New Hampshire,Coos,33,7,2024,Good,Spring
+New Hampshire,Hillsborough,33,11,2018,Good,Fall
+New Hampshire,Hillsborough,33,11,2024,Good,Spring
+New Hampshire,Rockingham,33,15,2024,Good,Spring
+New Jersey,Bergen,34,3,2014,Good,Fall
+New Jersey,Bergen,34,3,2020,Good,Fall
+New Jersey,Bergen,34,3,2024,Good,Spring
+New Jersey,Camden,34,7,2018,Good,Fall
+New Jersey,Camden,34,7,2024,Good,Spring
+New Jersey,Essex,34,13,2018,Good,Fall
+New Jersey,Essex,34,13,2022,Good,Fall
+New Jersey,Hudson,34,17,2022,Good,Fall
+New Jersey,Hudson,34,17,2024,Good,Spring
+New Jersey,Union,34,39,2020,Good,Spring
+New Jersey,Union,34,39,2024,Good,Spring
+New Mexico,Bernalillo,35,1,2024,Good,Spring
+New York,Albany,36,1,2015,Good,Spring
+New York,Monroe,36,55,2014,Good,Spring
+New York,New York,36,61,2020,Good,Spring
+New York,Steuben,36,101,2014,Good,Spring
+New York,Steuben,36,101,2015,Good,Fall
+New York,Steuben,36,101,2017,Good,Fall
+New York,Steuben,36,101,2018,Good,Spring
+North Carolina,Mecklenburg,37,119,2018,Good,Fall
+North Carolina,Wake,37,183,2018,Good,Fall
+North Carolina,Wake,37,183,2019,Good,Fall
+North Dakota,Burleigh,38,15,2018,Good,Spring
+Ohio,Belmont,39,13,2017,Good,Fall
+Ohio,Belmont,39,13,2019,Good,Fall
+Ohio,Belmont,39,13,2019,Good,Spring
+Ohio,Cuyahoga,39,35,2014,Good,Fall
+Ohio,Cuyahoga,39,35,2022,Good,Spring
+Ohio,Harrison,39,67,2018,Good,Fall
+Ohio,Harrison,39,67,2019,Good,Fall
+Ohio,Harrison,39,67,2019,Good,Spring
+Ohio,Harrison,39,67,2020,Good,Fall
+Ohio,Harrison,39,67,2020,Good,Spring
+Ohio,Harrison,39,67,2021,Good,Fall
+Ohio,Harrison,39,67,2021,Good,Spring
+Ohio,Lake,39,85,2014,Good,Spring
+Ohio,Lake,39,85,2017,Good,Spring
+Ohio,Montgomery,39,113,2014,Good,Spring
+Ohio,Montgomery,39,113,2017,Good,Fall
+Ohio,Stark,39,151,2016,Good,Spring
+Ohio,Summit,39,153,2014,Good,Fall
+Ohio,Summit,39,153,2014,Good,Spring
+Oklahoma,Adair,40,1,2020,Good,Spring
+Oregon,Multnomah,41,51,2024,Good,Spring
+Oregon,Washington,41,67,2024,Good,Spring
+Pennsylvania,Adams,42,1,2014,Good,Fall
+Pennsylvania,Allegheny,42,3,2024,Good,Spring
+Pennsylvania,Cambria,42,21,2019,Good,Fall
+Pennsylvania,Cambria,42,21,2020,Good,Fall
+Pennsylvania,Cambria,42,21,2021,Good,Spring
+Pennsylvania,Cambria,42,21,2023,Good,Spring
+Pennsylvania,Erie,42,49,2019,Good,Fall
+Pennsylvania,Erie,42,49,2020,Good,Spring
+Pennsylvania,Erie,42,49,2021,Good,Spring
+Pennsylvania,Erie,42,49,2023,Good,Spring
+Pennsylvania,Lackawanna,42,69,2021,Good,Spring
+Pennsylvania,Lackawanna,42,69,2022,Good,Fall
+Pennsylvania,Lackawanna,42,69,2024,Good,Spring
+Pennsylvania,Philadelphia,42,101,2024,Good,Spring
+Puerto Rico,Bayamon,72,21,2014,Good,Fall
+Puerto Rico,Bayamon,72,21,2014,Good,Spring
+Puerto Rico,Bayamon,72,21,2015,Good,Fall
+Puerto Rico,Bayamon,72,21,2015,Good,Spring
+Puerto Rico,Bayamon,72,21,2016,Moderate,Spring
+Puerto Rico,Bayamon,72,21,2018,Moderate,Fall
+Puerto Rico,Bayamon,72,21,2019,Good,Fall
+Puerto Rico,Bayamon,72,21,2020,Good,Fall
+Puerto Rico,Bayamon,72,21,2020,Good,Spring
+Puerto Rico,Bayamon,72,21,2021,Good,Fall
+Puerto Rico,Bayamon,72,21,2021,Good,Spring
+Puerto Rico,Bayamon,72,21,2022,Good,Fall
+Puerto Rico,Bayamon,72,21,2022,Good,Spring
+Puerto Rico,Bayamon,72,21,2023,Good,Fall
+Puerto Rico,Bayamon,72,21,2024,Good,Spring
+Puerto Rico,Caguas,72,25,2017,Good,Fall
+Puerto Rico,Caguas,72,25,2017,Good,Spring
+Puerto Rico,Caguas,72,25,2018,Good,Fall
+Puerto Rico,Caguas,72,25,2019,Good,Fall
+Puerto Rico,Caguas,72,25,2019,Good,Spring
+Puerto Rico,Caguas,72,25,2020,Good,Fall
+Puerto Rico,Caguas,72,25,2020,Good,Spring
+Puerto Rico,Caguas,72,25,2021,Good,Fall
+Puerto Rico,Caguas,72,25,2022,Good,Fall
+Puerto Rico,Caguas,72,25,2022,Good,Spring
+Puerto Rico,Caguas,72,25,2023,Good,Fall
+Puerto Rico,Caguas,72,25,2023,Good,Spring
+Puerto Rico,Caguas,72,25,2024,Good,Spring
+Puerto Rico,Guaynabo,72,61,2014,Good,Fall
+Puerto Rico,Guaynabo,72,61,2015,Good,Fall
+Puerto Rico,Guaynabo,72,61,2015,Good,Spring
+Puerto Rico,Guaynabo,72,61,2016,Good,Fall
+Puerto Rico,Guaynabo,72,61,2017,Good,Fall
+Puerto Rico,Guaynabo,72,61,2017,Good,Spring
+Puerto Rico,Guaynabo,72,61,2018,Good,Fall
+Puerto Rico,Guaynabo,72,61,2018,Good,Spring
+Puerto Rico,Guaynabo,72,61,2019,Good,Spring
+Puerto Rico,Ponce,72,113,2014,Good,Spring
+Puerto Rico,Ponce,72,113,2015,Good,Spring
+Puerto Rico,Ponce,72,113,2016,Good,Fall
+Puerto Rico,Ponce,72,113,2016,Good,Spring
+Puerto Rico,Ponce,72,113,2017,Good,Spring
+Puerto Rico,Ponce,72,113,2018,Good,Fall
+Puerto Rico,Ponce,72,113,2018,Good,Spring
+Puerto Rico,Ponce,72,113,2019,Good,Fall
+Puerto Rico,Ponce,72,113,2019,Good,Spring
+Puerto Rico,Ponce,72,113,2020,Good,Fall
+Puerto Rico,Ponce,72,113,2020,Good,Spring
+Puerto Rico,Ponce,72,113,2022,Good,Fall
+Puerto Rico,Ponce,72,113,2022,Good,Spring
+Puerto Rico,Ponce,72,113,2023,Good,Fall
+Puerto Rico,Ponce,72,113,2023,Good,Spring
+Puerto Rico,Ponce,72,113,2024,Good,Spring
+Puerto Rico,San Juan,72,127,2014,Good,Fall
+Puerto Rico,San Juan,72,127,2014,Good,Spring
+Puerto Rico,San Juan,72,127,2015,Good,Fall
+Puerto Rico,San Juan,72,127,2015,Good,Spring
+Puerto Rico,San Juan,72,127,2016,Good,Fall
+Puerto Rico,San Juan,72,127,2016,Good,Spring
+Puerto Rico,San Juan,72,127,2017,Good,Fall
+Puerto Rico,San Juan,72,127,2017,Good,Spring
+Puerto Rico,San Juan,72,127,2019,Good,Fall
+Puerto Rico,San Juan,72,127,2019,Good,Spring
+Puerto Rico,San Juan,72,127,2020,Good,Fall
+Puerto Rico,San Juan,72,127,2020,Good,Spring
+South Dakota,Minnehaha,46,99,2024,Good,Spring
+Tennessee,Blount,47,9,2015,Good,Fall
+Tennessee,Davidson,47,37,2024,Good,Spring
+Tennessee,Sullivan,47,163,2014,Good,Fall
+Texas,Bexar,48,29,2024,Good,Spring
+Texas,Dallas,48,113,2024,Good,Spring
+Texas,Harris,48,201,2024,Good,Spring
+Texas,McLennan,48,309,2014,Good,Spring
+Texas,McLennan,48,309,2016,Good,Spring
+Texas,McLennan,48,309,2018,Good,Fall
+Texas,McLennan,48,309,2021,Good,Fall
+Texas,McLennan,48,309,2021,Good,Spring
+Texas,McLennan,48,309,2022,Good,Spring
+Texas,McLennan,48,309,2024,Good,Spring
+Texas,Travis,48,453,2024,Good,Spring
+Texas,Webb,48,479,2024,Good,Spring
+Utah,Weber,49,57,2014,Good,Spring
+Utah,Weber,49,57,2021,Good,Spring
+Vermont,Chittenden,50,7,2024,Good,Spring
+Vermont,Rutland,50,21,2014,Good,Fall
+Vermont,Rutland,50,21,2024,Good,Spring
+Virginia,Alexandria City,51,510,2014,Good,Spring
+Virginia,Alexandria City,51,510,2015,Good,Fall
+Virginia,Alexandria City,51,510,2015,Good,Spring
+Virginia,Alexandria City,51,510,2016,Good,Spring
+Virginia,Arlington,51,13,2015,Good,Fall
+Virginia,Arlington,51,13,2020,Good,Spring
+Virginia,Hampton City,51,650,2014,Good,Spring
+Virginia,Hampton City,51,650,2016,Good,Spring
+Virginia,Hampton City,51,650,2018,Good,Spring
+Virginia,Hampton City,51,650,2021,Good,Fall
+Virginia,Hampton City,51,650,2022,Good,Fall
+Virginia,Henrico,51,87,2019,Good,Fall
+Virginia,Henrico,51,87,2021,Good,Fall
+Virginia,Norfolk City,51,710,2014,Good,Fall
+Virginia,Norfolk City,51,710,2015,Good,Fall
+Virginia,Norfolk City,51,710,2016,Good,Fall
+Virginia,Norfolk City,51,710,2016,Good,Spring
+Virginia,Norfolk City,51,710,2017,Good,Spring
+Virginia,Norfolk City,51,710,2018,Good,Fall
+Virginia,Norfolk City,51,710,2018,Good,Spring
+Virginia,Norfolk City,51,710,2019,Good,Fall
+Virginia,Norfolk City,51,710,2020,Good,Fall
+Virginia,Norfolk City,51,710,2020,Good,Spring
+Virginia,Norfolk City,51,710,2021,Good,Fall
+Virginia,Norfolk City,51,710,2022,Good,Fall
+Virginia,Norfolk City,51,710,2023,Good,Fall
+Virginia,Richmond City,51,760,2014,Good,Fall
+Virginia,Richmond City,51,760,2014,Good,Spring
+Virginia,Richmond City,51,760,2019,Good,Fall
+Virginia,Richmond City,51,760,2020,Good,Fall
+Virginia,Richmond City,51,760,2022,Good,Spring
+Virginia,Roanoke,51,161,2022,Good,Spring
+Washington,Clallam,53,9,2015,Good,Spring
+Washington,King,53,33,2015,Good,Spring
+Washington,King,53,33,2024,Good,Spring
+Washington,Spokane,53,63,2015,Good,Spring
+West Virginia,Brooke,54,9,2014,Good,Fall
+West Virginia,Brooke,54,9,2014,Good,Spring
+West Virginia,Brooke,54,9,2015,Good,Fall
+West Virginia,Brooke,54,9,2015,Good,Spring
+West Virginia,Brooke,54,9,2016,Good,Fall
+West Virginia,Brooke,54,9,2016,Good,Spring
+West Virginia,Hancock,54,29,2014,Good,Fall
+West Virginia,Hancock,54,29,2014,Good,Spring
+West Virginia,Hancock,54,29,2015,Good,Spring
+West Virginia,Hancock,54,29,2016,Good,Fall
+West Virginia,Hancock,54,29,2016,Good,Spring
+West Virginia,Kanawha,54,39,2016,Good,Spring
+West Virginia,Kanawha,54,39,2018,Good,Spring
+West Virginia,Kanawha,54,39,2019,Good,Fall
+West Virginia,Kanawha,54,39,2019,Good,Spring
+West Virginia,Kanawha,54,39,2022,Good,Spring
+West Virginia,Kanawha,54,39,2024,Good,Spring
+Wisconsin,Dodge,55,27,2024,Good,Spring
+Wisconsin,Milwaukee,55,79,2024,Good,Spring
+Wyoming,Converse,56,9,2024,Good,Spring
+Wyoming,Laramie,56,21,2021,Good,Spring
+Wyoming,Laramie,56,21,2024,Good,Spring
